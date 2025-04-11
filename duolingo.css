@@ -175,4 +175,14 @@ body {
       height: auto;
     }
   }
-  
+  .PerSEC {
+    width: 100%;
+    height: fit-content;
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    justify-content: center;
+  }
+  .PerSEC span {
+    color: rgb(102, 102, 227);
+  }
