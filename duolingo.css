@@ -260,3 +260,7 @@ body {
     margin-top: 10px;
     cursor: pointer;
   }
+  @media (max-width: 768px) {
+    .supperDo {
+      flex-direction: column;
+    }
