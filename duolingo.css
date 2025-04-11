@@ -79,4 +79,17 @@ body {
     margin-top: 10px;
     cursor: pointer;
   }
+  .image {
+    width: 280px;
+    padding: 20px;
+  }
+  .btnLang {
+    padding: 10px 20px;
+    background-color: rgb(5, 189, 5);
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+  }
   
+
