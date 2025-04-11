@@ -204,3 +204,17 @@ body {
     width: 30%;
     border-radius: 40%;
   }
+  @media (max-width: 768px) {
+    .PerSEC {
+      flex-direction: column;
+      justify-content: flex-start;
+      gap: 30px;
+    }
+    .PerSEC h2 {
+      font-size: 20px;
+    }
+    .parag1 {
+      font-size: 10px;
+    }
+  }
+  
