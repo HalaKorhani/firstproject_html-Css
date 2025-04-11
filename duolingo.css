@@ -55,3 +55,28 @@ body {
     font-size: 32px;
     margin-bottom: 18px;
   }
+
+  .btn1 {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: rgb(5, 189, 5);
+    color: white;
+    border: none;
+    border-radius: 5px;
+    width: 300px;
+    margin-top: 10px;
+    cursor: pointer;
+  }
+  .btn2 {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: white;
+    color: rgb(73, 73, 239);
+    border: none;
+    box-shadow: 2px 2px 0 0 gray;
+    border-radius: 5px;
+    width: 300px;
+    margin-top: 10px;
+    cursor: pointer;
+  }
+  
