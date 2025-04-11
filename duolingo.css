@@ -24,3 +24,11 @@ body {
     height: 20%;
     padding: 0px 120px;
   }
+  nav a {
+    text-decoration:none ;
+  }
+  .imgNav {
+    width: 130px;
+    height: 40px;
+  }
+  
