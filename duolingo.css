@@ -91,5 +91,10 @@ body {
     cursor: pointer;
     border-radius: 5px;
   }
-  
+  .options {
+    display: none; 
+    position: absolute; 
+    background-color: white;
+    width: 130px;
+  }
 
