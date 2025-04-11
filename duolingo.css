@@ -97,4 +97,10 @@ body {
     background-color: white;
     width: 130px;
   }
+  .options a {
+    padding: 10px 10px;
+    display: block;
+    text-decoration: none;
+    color: black;
+  }
 
