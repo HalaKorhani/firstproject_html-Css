@@ -103,4 +103,8 @@ body {
     text-decoration: none;
     color: black;
   }
+  .optios a:hover {
+    background-color: rgb(5, 189, 5);
+    border-radius: 20px;
+  }
 
