@@ -43,3 +43,15 @@ body {
     width: 40%;
     padding: 17px;
   }
+  .parag h1 {
+    font-size: 32px;
+    margin-bottom: 20px;
+    color: rgb(5, 189, 5);
+  }
+  
+  .parag p {
+    font-size: 32px;
+    color: black;
+    font-size: 32px;
+    margin-bottom: 18px;
+  }
